@@ -29,9 +29,13 @@ Developed and evaluated time-series models to anticipate liquidity needs for 24/
 
 A web-based tool developed to address a practical need: helping learners practise writing independently and obtain AI-assisted feedback. The emphasis is on useful feedback and straightforward interaction rather than showcasing technologies for their own sake.
 
-### [Neural network coursework](https://github.com/AntonioS3435/practicas)
+### [AI Security & Privacy — Federated Learning, Adversarial ML](https://github.com/AntonioS3435/Slesi)
 
-Academic implementations and experiments covering foundational neural networks, convolutional networks, residual networks and recurrent models.
+University projects exploring the security and privacy of machine learning systems.
+
+Implemented federated learning with PyTorch, investigated model poisoning attacks and Byzantine-robust aggregation, and experimented with membership inference attacks and differential privacy using Opacus.
+
+Additional work includes adversarial attacks against neural networks, LLM security and AI systems auditing.
 
 ## What I value in ML projects
 
